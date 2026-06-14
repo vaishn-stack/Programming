@@ -1,3 +1,5 @@
+# what is difference between and explain using id()
+
 a = 10
 b = 10
 print(id(a))
