@@ -1,0 +1,43 @@
+--------------------------------------------------
+Marvellous Automation Script 
+--------------------------------------------------
+
+Files from the Directory are : 
+
+--------------------------------------------------
+Marvellous\Mumbai\Empty.txt : 0 bytes
+Marvellous\Mumbai\Empty2.txt : 0 bytes
+Marvellous\Mumbai\File_Create_Close.py : 513 bytes
+Marvellous\Mumbai\File_Create_Exception.py : 388 bytes
+Marvellous\Mumbai\File_Create_Write.py : 479 bytes
+Marvellous\Mumbai\File_Create_WriteX.py : 488 bytes
+Marvellous\Mumbai\File_Create_Write_Append.py : 505 bytes
+Marvellous\Mumbai\File_Exists.py : 286 bytes
+Marvellous\Mumbai\File_ExistsX.py : 263 bytes
+Marvellous\Mumbai\File_Open.py : 110 bytes
+Marvellous\Mumbai\File_Open_Exception.py : 254 bytes
+Marvellous\Mumbai\File_Read.py : 388 bytes
+Marvellous\Mumbai\File_ReadX.py : 386 bytes
+Marvellous\Mumbai\File_Read_Seek.py : 530 bytes
+Marvellous\Mumbai\File_Read_SeekX.py : 548 bytes
+Marvellous\Mumbai\File_Remove.py : 382 bytes
+Marvellous\Mumbai\File_tell.py : 540 bytes
+Marvellous\Mumbai\File_tellX.py : 689 bytes
+Marvellous\Pune\Empty.txt : 0 bytes
+Marvellous\Pune\ScheduleDemo1.py : 297 bytes
+Marvellous\Pune\ScheduleDemo2.py : 471 bytes
+Marvellous\Pune\ScheduleDemo3.py : 629 bytes
+Marvellous\Pune\ScheduleDemo4.py : 632 bytes
+Marvellous\Satara\AutomationScript1.py : 190 bytes
+Marvellous\Satara\AutomationScript2.py : 262 bytes
+Marvellous\Satara\AutomationScript3.py : 837 bytes
+Marvellous\Satara\AutomationScript4.py : 921 bytes
+Marvellous\Satara\AutomationScript5.py : 1383 bytes
+Marvellous\Satara\AutomationScript6.py : 1134 bytes
+Marvellous\Satara\Empty.txt : 0 bytes
+--------------------------------------------------
+Total files scanned : 30
+Total empty files are found and deleted : 4
+--------------------------------------------------
+Log File gets create at : Sun Jul 19 20:37:07 2026
+--------------------------------------------------
