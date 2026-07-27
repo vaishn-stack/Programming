@@ -1,0 +1,15 @@
+=====================================================
+          Duplicate File Cleaner Log
+=====================================================
+
+Date : 27/07/2026
+Time : 17:05:36
+
+Directory : Test
+
+Total Files Scanned : 3
+Duplicate Groups    : 0
+Deleted Files       : 0
+
+Duplicate Files
+-------------------------------------------
