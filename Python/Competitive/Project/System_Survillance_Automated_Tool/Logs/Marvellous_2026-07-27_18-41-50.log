@@ -1,0 +1,2410 @@
+-------------------------------------------------------
+-----Marvellous Platform Survillence System-----
+Log file gets created at : 2026-07-27_18-41-50
+-------------------------------------------------------
+
+------------------System Report------------------
+Number of active CPU Cores : 12
+CPU Usage : 15.0 %
+-------------------------------------------------------
+RAM Usage : 89.0 %
+Total RAM Available : 7883304960 Bytes
+-------------------------------------------------------
+HDD Information
+Total HDD : 236.73 GB
+Used HDD : 202.87 GB
+Free HDD : 33.86 GB
+HDD Usage : 85.70 %
+-------------------------------------------------------
+Network Usage Report 
+Sent : 24.65 MB
+Receive : 49.82 MB
+-------------------------------------------------------
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0001
+Process Number : 1
+-------------------------------------------------------
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0526
+Process Number : 2
+-------------------------------------------------------
+PID : 188
+Name : 
+Username : None
+Status : stopped
+CPU Usage : 0.0000
+RAM Usage : 0.5682
+Process Number : 3
+-------------------------------------------------------
+PID : 232
+Name : Registry
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4118
+Process Number : 4
+-------------------------------------------------------
+PID : 428
+Name : NP2120CL.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2059
+Process Number : 5
+-------------------------------------------------------
+PID : 964
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2590
+Process Number : 6
+-------------------------------------------------------
+PID : 984
+Name : smss.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0046
+Process Number : 7
+-------------------------------------------------------
+PID : 1424
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0720
+Process Number : 8
+-------------------------------------------------------
+PID : 1488
+Name : csrss.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0532
+Process Number : 9
+-------------------------------------------------------
+PID : 1660
+Name : wininit.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0727
+Process Number : 10
+-------------------------------------------------------
+PID : 1668
+Name : csrss.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1111
+Process Number : 11
+-------------------------------------------------------
+PID : 1728
+Name : winlogon.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1049
+Process Number : 12
+-------------------------------------------------------
+PID : 1796
+Name : services.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0985
+Process Number : 13
+-------------------------------------------------------
+PID : 1804
+Name : LsaIso.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0123
+Process Number : 14
+-------------------------------------------------------
+PID : 1824
+Name : lsass.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2086
+Process Number : 15
+-------------------------------------------------------
+PID : 1840
+Name : dwm.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.7276
+Process Number : 16
+-------------------------------------------------------
+PID : 1956
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3295
+Process Number : 17
+-------------------------------------------------------
+PID : 1968
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0599
+Process Number : 18
+-------------------------------------------------------
+PID : 1984
+Name : fontdrvhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0172
+Process Number : 19
+-------------------------------------------------------
+PID : 1988
+Name : fontdrvhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0444
+Process Number : 20
+-------------------------------------------------------
+PID : 2000
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0532
+Process Number : 21
+-------------------------------------------------------
+PID : 2096
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0274
+Process Number : 22
+-------------------------------------------------------
+PID : 2100
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0200
+Process Number : 23
+-------------------------------------------------------
+PID : 2212
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0946
+Process Number : 24
+-------------------------------------------------------
+PID : 2220
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1596
+Process Number : 25
+-------------------------------------------------------
+PID : 2228
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0456
+Process Number : 26
+-------------------------------------------------------
+PID : 2232
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1569
+Process Number : 27
+-------------------------------------------------------
+PID : 2260
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0427
+Process Number : 28
+-------------------------------------------------------
+PID : 2376
+Name : conhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0507
+Process Number : 29
+-------------------------------------------------------
+PID : 2424
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1051
+Process Number : 30
+-------------------------------------------------------
+PID : 2444
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0908
+Process Number : 31
+-------------------------------------------------------
+PID : 2456
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1056
+Process Number : 32
+-------------------------------------------------------
+PID : 2512
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2491
+Process Number : 33
+-------------------------------------------------------
+PID : 2552
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0775
+Process Number : 34
+-------------------------------------------------------
+PID : 2596
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0776
+Process Number : 35
+-------------------------------------------------------
+PID : 2660
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0873
+Process Number : 36
+-------------------------------------------------------
+PID : 2756
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0894
+Process Number : 37
+-------------------------------------------------------
+PID : 2792
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0641
+Process Number : 38
+-------------------------------------------------------
+PID : 2836
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0560
+Process Number : 39
+-------------------------------------------------------
+PID : 2900
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0765
+Process Number : 40
+-------------------------------------------------------
+PID : 3024
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1814
+Process Number : 41
+-------------------------------------------------------
+PID : 3060
+Name : explorer.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 2.2683
+Process Number : 42
+-------------------------------------------------------
+PID : 3128
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1184
+Process Number : 43
+-------------------------------------------------------
+PID : 3168
+Name : DefenderAiPlatformHost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0205
+Process Number : 44
+-------------------------------------------------------
+PID : 3256
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1303
+Process Number : 45
+-------------------------------------------------------
+PID : 3292
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0711
+Process Number : 46
+-------------------------------------------------------
+PID : 3304
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0556
+Process Number : 47
+-------------------------------------------------------
+PID : 3544
+Name : OmenCap.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0497
+Process Number : 48
+-------------------------------------------------------
+PID : 3556
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1466
+Process Number : 49
+-------------------------------------------------------
+PID : 3644
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0495
+Process Number : 50
+-------------------------------------------------------
+PID : 3660
+Name : NVDisplay.Container.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1565
+Process Number : 51
+-------------------------------------------------------
+PID : 3728
+Name : amdfendrsr.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0281
+Process Number : 52
+-------------------------------------------------------
+PID : 3736
+Name : atiesrxx.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0327
+Process Number : 53
+-------------------------------------------------------
+PID : 3744
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1485
+Process Number : 54
+-------------------------------------------------------
+PID : 3768
+Name : sihost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2748
+Process Number : 55
+-------------------------------------------------------
+PID : 3832
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1129
+Process Number : 56
+-------------------------------------------------------
+PID : 3876
+Name : MemCompression
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.5074
+Process Number : 57
+-------------------------------------------------------
+PID : 3904
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1825
+Process Number : 58
+-------------------------------------------------------
+PID : 3940
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2357
+Process Number : 59
+-------------------------------------------------------
+PID : 3984
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4219
+Process Number : 60
+-------------------------------------------------------
+PID : 4040
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0869
+Process Number : 61
+-------------------------------------------------------
+PID : 4048
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0284
+Process Number : 62
+-------------------------------------------------------
+PID : 4064
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0676
+Process Number : 63
+-------------------------------------------------------
+PID : 4120
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0981
+Process Number : 64
+-------------------------------------------------------
+PID : 4216
+Name : TouchpointAnalyticsClientService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.7223
+Process Number : 65
+-------------------------------------------------------
+PID : 4224
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0686
+Process Number : 66
+-------------------------------------------------------
+PID : 4232
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0501
+Process Number : 67
+-------------------------------------------------------
+PID : 4240
+Name : AppHelperCap.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1334
+Process Number : 68
+-------------------------------------------------------
+PID : 4248
+Name : NetworkCap.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0660
+Process Number : 69
+-------------------------------------------------------
+PID : 4256
+Name : DiagsCap.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0889
+Process Number : 70
+-------------------------------------------------------
+PID : 4264
+Name : SysInfoCap.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2885
+Process Number : 71
+-------------------------------------------------------
+PID : 4352
+Name : UserOOBEBroker.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0231
+Process Number : 72
+-------------------------------------------------------
+PID : 4396
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0269
+Process Number : 73
+-------------------------------------------------------
+PID : 4508
+Name : hp-one-agent-service.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2991
+Process Number : 74
+-------------------------------------------------------
+PID : 4540
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1700
+Process Number : 75
+-------------------------------------------------------
+PID : 4808
+Name : TouchpointGpuInfo.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2238
+Process Number : 76
+-------------------------------------------------------
+PID : 4948
+Name : GoogleInputHandler.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0286
+Process Number : 77
+-------------------------------------------------------
+PID : 4992
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0882
+Process Number : 78
+-------------------------------------------------------
+PID : 5056
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2955
+Process Number : 79
+-------------------------------------------------------
+PID : 5260
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0447
+Process Number : 80
+-------------------------------------------------------
+PID : 5356
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1703
+Process Number : 81
+-------------------------------------------------------
+PID : 5364
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.7266
+Process Number : 82
+-------------------------------------------------------
+PID : 5444
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1464
+Process Number : 83
+-------------------------------------------------------
+PID : 5452
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0353
+Process Number : 84
+-------------------------------------------------------
+PID : 5496
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0572
+Process Number : 85
+-------------------------------------------------------
+PID : 5540
+Name : spoolsv.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0523
+Process Number : 86
+-------------------------------------------------------
+PID : 5644
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1288
+Process Number : 87
+-------------------------------------------------------
+PID : 5652
+Name : unsecapp.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0660
+Process Number : 88
+-------------------------------------------------------
+PID : 5804
+Name : conhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0395
+Process Number : 89
+-------------------------------------------------------
+PID : 5816
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0500
+Process Number : 90
+-------------------------------------------------------
+PID : 5856
+Name : mfemms.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1155
+Process Number : 91
+-------------------------------------------------------
+PID : 5876
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0727
+Process Number : 92
+-------------------------------------------------------
+PID : 5916
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 6.9177
+Process Number : 93
+-------------------------------------------------------
+PID : 6028
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0242
+Process Number : 94
+-------------------------------------------------------
+PID : 6048
+Name : nssm.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0255
+Process Number : 95
+-------------------------------------------------------
+PID : 6056
+Name : GoogleInputService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0352
+Process Number : 96
+-------------------------------------------------------
+PID : 6064
+Name : HPCommRecovery.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1288
+Process Number : 97
+-------------------------------------------------------
+PID : 6072
+Name : ETDService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0430
+Process Number : 98
+-------------------------------------------------------
+PID : 6092
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4814
+Process Number : 99
+-------------------------------------------------------
+PID : 6100
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0235
+Process Number : 100
+-------------------------------------------------------
+PID : 6124
+Name : HPPrintScanDoctorService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1518
+Process Number : 101
+-------------------------------------------------------
+PID : 6132
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1057
+Process Number : 102
+-------------------------------------------------------
+PID : 6140
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0861
+Process Number : 103
+-------------------------------------------------------
+PID : 6224
+Name : ModuleCoreService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0831
+Process Number : 104
+-------------------------------------------------------
+PID : 6296
+Name : mysqld.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0198
+Process Number : 105
+-------------------------------------------------------
+PID : 6328
+Name : NPBKPSRV.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0224
+Process Number : 106
+-------------------------------------------------------
+PID : 6344
+Name : NPHOST.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2046
+Process Number : 107
+-------------------------------------------------------
+PID : 6396
+Name : mongod.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4730
+Process Number : 108
+-------------------------------------------------------
+PID : 6412
+Name : TNSLSNR.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0527
+Process Number : 109
+-------------------------------------------------------
+PID : 6420
+Name : AggregatorHost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2275
+Process Number : 110
+-------------------------------------------------------
+PID : 6448
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0957
+Process Number : 111
+-------------------------------------------------------
+PID : 6476
+Name : NP2022AB.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0381
+Process Number : 112
+-------------------------------------------------------
+PID : 6484
+Name : PEFService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0380
+Process Number : 113
+-------------------------------------------------------
+PID : 6500
+Name : sqlwriter.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0317
+Process Number : 114
+-------------------------------------------------------
+PID : 6512
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0308
+Process Number : 115
+-------------------------------------------------------
+PID : 6536
+Name : oracle.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.6833
+Process Number : 116
+-------------------------------------------------------
+PID : 6548
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1629
+Process Number : 117
+-------------------------------------------------------
+PID : 6580
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1550
+Process Number : 118
+-------------------------------------------------------
+PID : 6616
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.7557
+Process Number : 119
+-------------------------------------------------------
+PID : 6624
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 3.7121
+Process Number : 120
+-------------------------------------------------------
+PID : 6636
+Name : SECOMN64.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0909
+Process Number : 121
+-------------------------------------------------------
+PID : 6788
+Name : expressvpnd.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1364
+Process Number : 122
+-------------------------------------------------------
+PID : 6944
+Name : conhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0289
+Process Number : 123
+-------------------------------------------------------
+PID : 7100
+Name : WidgetService.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1837
+Process Number : 124
+-------------------------------------------------------
+PID : 7208
+Name : MsMpEng.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.7190
+Process Number : 125
+-------------------------------------------------------
+PID : 7420
+Name : MMSSHOST.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4043
+Process Number : 126
+-------------------------------------------------------
+PID : 7448
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1290
+Process Number : 127
+-------------------------------------------------------
+PID : 7628
+Name : mysqld.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0581
+Process Number : 128
+-------------------------------------------------------
+PID : 7652
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0455
+Process Number : 129
+-------------------------------------------------------
+PID : 7716
+Name : conhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0271
+Process Number : 130
+-------------------------------------------------------
+PID : 8196
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1003
+Process Number : 131
+-------------------------------------------------------
+PID : 8200
+Name : cmd.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0285
+Process Number : 132
+-------------------------------------------------------
+PID : 8320
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0666
+Process Number : 133
+-------------------------------------------------------
+PID : 8340
+Name : mfevtps.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0889
+Process Number : 134
+-------------------------------------------------------
+PID : 8512
+Name : OneDrive.Sync.Service.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4717
+Process Number : 135
+-------------------------------------------------------
+PID : 8568
+Name : ProtectedModuleHost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1089
+Process Number : 136
+-------------------------------------------------------
+PID : 9324
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0888
+Process Number : 137
+-------------------------------------------------------
+PID : 9360
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0758
+Process Number : 138
+-------------------------------------------------------
+PID : 9624
+Name : cmd.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0251
+Process Number : 139
+-------------------------------------------------------
+PID : 9628
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3294
+Process Number : 140
+-------------------------------------------------------
+PID : 9924
+Name : SearchHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2919
+Process Number : 141
+-------------------------------------------------------
+PID : 9928
+Name : ModuleCoreService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4080
+Process Number : 142
+-------------------------------------------------------
+PID : 9948
+Name : conhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0070
+Process Number : 143
+-------------------------------------------------------
+PID : 10072
+Name : conhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0219
+Process Number : 144
+-------------------------------------------------------
+PID : 10180
+Name : ShellHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1007
+Process Number : 145
+-------------------------------------------------------
+PID : 10320
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1624
+Process Number : 146
+-------------------------------------------------------
+PID : 10348
+Name : hpqwmiex.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0936
+Process Number : 147
+-------------------------------------------------------
+PID : 10528
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0934
+Process Number : 148
+-------------------------------------------------------
+PID : 10588
+Name : NgcIso.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0321
+Process Number : 149
+-------------------------------------------------------
+PID : 10652
+Name : McCSPServiceHost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1637
+Process Number : 150
+-------------------------------------------------------
+PID : 10728
+Name : EMON.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0924
+Process Number : 151
+-------------------------------------------------------
+PID : 10888
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2506
+Process Number : 152
+-------------------------------------------------------
+PID : 10932
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0681
+Process Number : 153
+-------------------------------------------------------
+PID : 11072
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0296
+Process Number : 154
+-------------------------------------------------------
+PID : 11176
+Name : NP2178NI.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0478
+Process Number : 155
+-------------------------------------------------------
+PID : 11288
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0665
+Process Number : 156
+-------------------------------------------------------
+PID : 11304
+Name : python.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3552
+Process Number : 157
+-------------------------------------------------------
+PID : 11328
+Name : WindowsTerminal.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.5664
+Process Number : 158
+-------------------------------------------------------
+PID : 11416
+Name : Widgets.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3399
+Process Number : 159
+-------------------------------------------------------
+PID : 11872
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4689
+Process Number : 160
+-------------------------------------------------------
+PID : 11924
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3762
+Process Number : 161
+-------------------------------------------------------
+PID : 12400
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0343
+Process Number : 162
+-------------------------------------------------------
+PID : 12540
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1988
+Process Number : 163
+-------------------------------------------------------
+PID : 12584
+Name : mcapexe.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0303
+Process Number : 164
+-------------------------------------------------------
+PID : 12636
+Name : taskhostw.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1970
+Process Number : 165
+-------------------------------------------------------
+PID : 12768
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1900
+Process Number : 166
+-------------------------------------------------------
+PID : 12988
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.7738
+Process Number : 167
+-------------------------------------------------------
+PID : 13072
+Name : MfeAVSvc.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3550
+Process Number : 168
+-------------------------------------------------------
+PID : 13108
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1197
+Process Number : 169
+-------------------------------------------------------
+PID : 13120
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0940
+Process Number : 170
+-------------------------------------------------------
+PID : 13460
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1086
+Process Number : 171
+-------------------------------------------------------
+PID : 13472
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 3.7992
+Process Number : 172
+-------------------------------------------------------
+PID : 13504
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1870
+Process Number : 173
+-------------------------------------------------------
+PID : 13624
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2637
+Process Number : 174
+-------------------------------------------------------
+PID : 13632
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1517
+Process Number : 175
+-------------------------------------------------------
+PID : 13700
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1328
+Process Number : 176
+-------------------------------------------------------
+PID : 13780
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1815
+Process Number : 177
+-------------------------------------------------------
+PID : 13796
+Name : cmd.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0424
+Process Number : 178
+-------------------------------------------------------
+PID : 14148
+Name : cmd.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0204
+Process Number : 179
+-------------------------------------------------------
+PID : 14468
+Name : ZVCMD64.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0154
+Process Number : 180
+-------------------------------------------------------
+PID : 14536
+Name : conhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0105
+Process Number : 181
+-------------------------------------------------------
+PID : 14556
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1879
+Process Number : 182
+-------------------------------------------------------
+PID : 14692
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3283
+Process Number : 183
+-------------------------------------------------------
+PID : 14728
+Name : McUICnt.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0400
+Process Number : 184
+-------------------------------------------------------
+PID : 14732
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0782
+Process Number : 185
+-------------------------------------------------------
+PID : 14780
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 1.7418
+Process Number : 186
+-------------------------------------------------------
+PID : 15140
+Name : uihost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2715
+Process Number : 187
+-------------------------------------------------------
+PID : 15208
+Name : RuntimeBroker.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0236
+Process Number : 188
+-------------------------------------------------------
+PID : 15312
+Name : RuntimeBroker.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1429
+Process Number : 189
+-------------------------------------------------------
+PID : 15440
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0628
+Process Number : 190
+-------------------------------------------------------
+PID : 15596
+Name : HP.HPX.exe
+Username : HP\vaish
+Status : stopped
+CPU Usage : 0.0000
+RAM Usage : 0.0304
+Process Number : 191
+-------------------------------------------------------
+PID : 15840
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1536
+Process Number : 192
+-------------------------------------------------------
+PID : 15864
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1527
+Process Number : 193
+-------------------------------------------------------
+PID : 16048
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1025
+Process Number : 194
+-------------------------------------------------------
+PID : 16064
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0247
+Process Number : 195
+-------------------------------------------------------
+PID : 16140
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1116
+Process Number : 196
+-------------------------------------------------------
+PID : 16172
+Name : WhatsApp.Root.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 1.2753
+Process Number : 197
+-------------------------------------------------------
+PID : 16584
+Name : ctfmon.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.5761
+Process Number : 198
+-------------------------------------------------------
+PID : 16608
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.8162
+Process Number : 199
+-------------------------------------------------------
+PID : 16636
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.4349
+Process Number : 200
+-------------------------------------------------------
+PID : 16664
+Name : taskhostw.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0525
+Process Number : 201
+-------------------------------------------------------
+PID : 16984
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0064
+Process Number : 202
+-------------------------------------------------------
+PID : 16992
+Name : PhoneExperienceHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1084
+Process Number : 203
+-------------------------------------------------------
+PID : 17056
+Name : APCONSVC.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3472
+Process Number : 204
+-------------------------------------------------------
+PID : 17136
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 1.0930
+Process Number : 205
+-------------------------------------------------------
+PID : 17156
+Name : dasHost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0839
+Process Number : 206
+-------------------------------------------------------
+PID : 17432
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1751
+Process Number : 207
+-------------------------------------------------------
+PID : 17564
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1321
+Process Number : 208
+-------------------------------------------------------
+PID : 17668
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0515
+Process Number : 209
+-------------------------------------------------------
+PID : 17824
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2028
+Process Number : 210
+-------------------------------------------------------
+PID : 18512
+Name : TextInputHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 1.0544
+Process Number : 211
+-------------------------------------------------------
+PID : 18724
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1301
+Process Number : 212
+-------------------------------------------------------
+PID : 18764
+Name : BridgeCommunication.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0353
+Process Number : 213
+-------------------------------------------------------
+PID : 18900
+Name : BraveCrashHandler.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0115
+Process Number : 214
+-------------------------------------------------------
+PID : 19000
+Name : BraveCrashHandler64.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0020
+Process Number : 215
+-------------------------------------------------------
+PID : 19188
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1571
+Process Number : 216
+-------------------------------------------------------
+PID : 19316
+Name : powershell.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0849
+Process Number : 217
+-------------------------------------------------------
+PID : 19428
+Name : ETDCtrl.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0818
+Process Number : 218
+-------------------------------------------------------
+PID : 19472
+Name : OfficeClickToRun.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1128
+Process Number : 219
+-------------------------------------------------------
+PID : 19520
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0967
+Process Number : 220
+-------------------------------------------------------
+PID : 19800
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1396
+Process Number : 221
+-------------------------------------------------------
+PID : 20020
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2634
+Process Number : 222
+-------------------------------------------------------
+PID : 20052
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.6138
+Process Number : 223
+-------------------------------------------------------
+PID : 20196
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 2.8288
+Process Number : 224
+-------------------------------------------------------
+PID : 20320
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1511
+Process Number : 225
+-------------------------------------------------------
+PID : 20396
+Name : cmd.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0215
+Process Number : 226
+-------------------------------------------------------
+PID : 20456
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0903
+Process Number : 227
+-------------------------------------------------------
+PID : 20516
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 1.1096
+Process Number : 228
+-------------------------------------------------------
+PID : 20892
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1514
+Process Number : 229
+-------------------------------------------------------
+PID : 21264
+Name : NisSrv.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0646
+Process Number : 230
+-------------------------------------------------------
+PID : 21388
+Name : SecurityHealthService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0668
+Process Number : 231
+-------------------------------------------------------
+PID : 21560
+Name : RuntimeBroker.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0684
+Process Number : 232
+-------------------------------------------------------
+PID : 21620
+Name : conhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0447
+Process Number : 233
+-------------------------------------------------------
+PID : 21716
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1350
+Process Number : 234
+-------------------------------------------------------
+PID : 21804
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0555
+Process Number : 235
+-------------------------------------------------------
+PID : 22008
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0785
+Process Number : 236
+-------------------------------------------------------
+PID : 22232
+Name : conhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0284
+Process Number : 237
+-------------------------------------------------------
+PID : 22292
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1301
+Process Number : 238
+-------------------------------------------------------
+PID : 22496
+Name : FileCoAuth.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2010
+Process Number : 239
+-------------------------------------------------------
+PID : 22556
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0191
+Process Number : 240
+-------------------------------------------------------
+PID : 22988
+Name : ApplicationFrameHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1164
+Process Number : 241
+-------------------------------------------------------
+PID : 23016
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.5182
+Process Number : 242
+-------------------------------------------------------
+PID : 23348
+Name : StartMenuExperienceHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.5642
+Process Number : 243
+-------------------------------------------------------
+PID : 23456
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0655
+Process Number : 244
+-------------------------------------------------------
+PID : 23468
+Name : SystemSettings.exe
+Username : HP\vaish
+Status : stopped
+CPU Usage : 0.0000
+RAM Usage : 0.0494
+Process Number : 245
+-------------------------------------------------------
+PID : 23496
+Name : servicehost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3383
+Process Number : 246
+-------------------------------------------------------
+PID : 23620
+Name : conhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0245
+Process Number : 247
+-------------------------------------------------------
+PID : 23696
+Name : py.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1173
+Process Number : 248
+-------------------------------------------------------
+PID : 23752
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0273
+Process Number : 249
+-------------------------------------------------------
+PID : 23768
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2806
+Process Number : 250
+-------------------------------------------------------
+PID : 23800
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2115
+Process Number : 251
+-------------------------------------------------------
+PID : 24300
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2990
+Process Number : 252
+-------------------------------------------------------
+PID : 24424
+Name : conhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0186
+Process Number : 253
+-------------------------------------------------------
+PID : 24888
+Name : wlanext.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0484
+Process Number : 254
+-------------------------------------------------------
+PID : 25076
+Name : dasHost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1423
+Process Number : 255
+-------------------------------------------------------
+PID : 25408
+Name : OpenConsole.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0725
+Process Number : 256
+-------------------------------------------------------
+PID : 25876
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1899
+Process Number : 257
+-------------------------------------------------------
+PID : 25920
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0135
+Process Number : 258
+-------------------------------------------------------
+PID : 26096
+Name : MfeBrowserHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1216
+Process Number : 259
+-------------------------------------------------------
+PID : 26100
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0844
+Process Number : 260
+-------------------------------------------------------
+PID : 26192
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1550
+Process Number : 261
+-------------------------------------------------------
+PID : 26196
+Name : EMAILSCN.EXE
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0281
+Process Number : 262
+-------------------------------------------------------
+PID : 26208
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 1.0755
+Process Number : 263
+-------------------------------------------------------
+PID : 26268
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1989
+Process Number : 264
+-------------------------------------------------------
+PID : 26420
+Name : browserhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0898
+Process Number : 265
+-------------------------------------------------------
+PID : 27180
+Name : NVDisplay.Container.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1399
+Process Number : 266
+-------------------------------------------------------
+PID : 27304
+Name : SearchProtocolHost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2081
+Process Number : 267
+-------------------------------------------------------
+PID : 27384
+Name : OpenConsole.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0878
+Process Number : 268
+-------------------------------------------------------
+PID : 27592
+Name : conhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0390
+Process Number : 269
+-------------------------------------------------------
+PID : 27644
+Name : RuntimeBroker.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0442
+Process Number : 270
+-------------------------------------------------------
+PID : 27784
+Name : MfeBrowserHost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0801
+Process Number : 271
+-------------------------------------------------------
+PID : 28080
+Name : SECOCL64.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0859
+Process Number : 272
+-------------------------------------------------------
+PID : 28188
+Name : dllhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1785
+Process Number : 273
+-------------------------------------------------------
+PID : 28216
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 5.1437
+Process Number : 274
+-------------------------------------------------------
+PID : 28372
+Name : browserhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1164
+Process Number : 275
+-------------------------------------------------------
+PID : 28504
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0355
+Process Number : 276
+-------------------------------------------------------
+PID : 28520
+Name : AppVShNotify.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0325
+Process Number : 277
+-------------------------------------------------------
+PID : 28636
+Name : svchost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1031
+Process Number : 278
+-------------------------------------------------------
+PID : 28684
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1350
+Process Number : 279
+-------------------------------------------------------
+PID : 29208
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2761
+Process Number : 280
+-------------------------------------------------------
+PID : 29332
+Name : conhost.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0452
+Process Number : 281
+-------------------------------------------------------
+PID : 29612
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.6795
+Process Number : 282
+-------------------------------------------------------
+PID : 29764
+Name : MoUsoCoreWorker.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2288
+Process Number : 283
+-------------------------------------------------------
+PID : 29792
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 2.6614
+Process Number : 284
+-------------------------------------------------------
+PID : 29816
+Name : svchost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2668
+Process Number : 285
+-------------------------------------------------------
+PID : 30212
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 4.4442
+Process Number : 286
+-------------------------------------------------------
+PID : 30616
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.5888
+Process Number : 287
+-------------------------------------------------------
+PID : 30644
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 1.4765
+Process Number : 288
+-------------------------------------------------------
+PID : 30712
+Name : MpDefenderCoreService.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1572
+Process Number : 289
+-------------------------------------------------------
+PID : 31048
+Name : msedgewebview2.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0412
+Process Number : 290
+-------------------------------------------------------
+PID : 31220
+Name : conhost.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0928
+Process Number : 291
+-------------------------------------------------------
+PID : 31948
+Name : pet.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1060
+Process Number : 292
+-------------------------------------------------------
+PID : 32012
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2524
+Process Number : 293
+-------------------------------------------------------
+PID : 32220
+Name : ZVMonNt.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.2577
+Process Number : 294
+-------------------------------------------------------
+PID : 32384
+Name : Code.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.0879
+Process Number : 295
+-------------------------------------------------------
+PID : 32448
+Name : SearchIndexer.exe
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.3328
+Process Number : 296
+-------------------------------------------------------
+PID : 32496
+Name : chrome.exe
+Username : HP\vaish
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 2.7903
+Process Number : 297
+-------------------------------------------------------
+PID : 32728
+Name : NPAVIDS.EXE
+Username : None
+Status : running
+CPU Usage : 0.0000
+RAM Usage : 0.1876
+Process Number : 298
+-------------------------------------------------------
+Total Running Processes : 298
+-------------------------------------------------------
+------------------End of Log File-----------------
+-------------------------------------------------------
