@@ -7,11 +7,11 @@ def CalculateCheckSum(FileName):
     
     hobj = hashlib.md5()
     
-    Buffer = fobj.read(1000)
+    Buffer = fobj.read(1024)
     
     while(len(Buffer) > 0):
         hobj.update(Buffer)
-        Buffer = fobj.read(1000)
+        Buffer = fobj.read(1024)
         
     fobj.close()
     
@@ -23,9 +23,8 @@ def main():
     
 if __name__ == "__main__":
     main()
-    
-# rb = read + binary compulsory for checksum - interview imp
-# md5 - class
-# Buffer - file 1000 byte chi read krel
-# eg- badli maga jo pryant pani sampat nhi 
-# hexdigest() - function for checksum
+
+# 1024 - 1 kB
+# 4096 buffer ae
+# 1000 as 4 vela jael
+# mg 24 ekda buffer while madhe jael 
