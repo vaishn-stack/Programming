@@ -1,0 +1,22 @@
+program1.c 87                                                                                       #include<stdio.h>
+
+int main()
+{
+    printf("Jay Ganesh....\n");
+
+    return 0;
+}program2.cpp 107                                                                                    #include<iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"Jay Ganesh...\n";
+
+    return 0;
+}program3.java 121                                                                                   class program3
+{
+    public static void main(String A[])
+    {
+        System.out.println("Jay Ganesh...");
+    }
+}
