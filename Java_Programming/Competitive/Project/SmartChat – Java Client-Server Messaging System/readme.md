@@ -119,7 +119,7 @@ SmartChat-Java-Chat-Application/
     ├── 02_Server_Started.png
     ├── 03_Client_Login.png
     ├── 04_Chat_Connected.png
-    └── 05_Chat_Communication.png
+
 🔄 Working Flow
                 START
                   |
