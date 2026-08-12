@@ -1,0 +1,4 @@
+Name,Math,Science,English,Total,Math_Normalized,Gender_Female,Gender_Male,Status
+Amit,85,92,75,252,0.583333333333333,False,True,Pass
+Sagar,90,88,85,263,1.0,False,True,Pass
+Pooja,78,80,82,240,0.0,True,False,Fail
