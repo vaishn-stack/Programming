@@ -5,14 +5,17 @@ def MarvellousEUCDistance(p1,p2):
     Ans = math.sqrt((p1['X'] - p2['X'])**2 + (p1['Y'] - p2['Y'])**2)
     return Ans
 
-def MarvellousKNNClassifier():
+def MarvellousKNNClassifier(k = 3):
     Border = "-"*50
     
     Data = [
         {'point' : 'A', 'X' : 1, 'Y' : 2, 'label' : 'Red'},
         {'point' : 'B', 'X' : 2, 'Y' : 3, 'label' : 'Red'},
         {'point' : 'C', 'X' : 3, 'Y' : 1, 'label' : 'Blue'},
-        {'point' : 'D', 'X' : 5, 'Y' : 6, 'label' : 'Blue'}
+        {'point' : 'D', 'X' : 5, 'Y' : 6, 'label' : 'Blue'},
+        {'point' : 'E', 'X' : 6, 'Y' : 6, 'label' : 'Blue'},
+        {'point' : 'F', 'X' : 3, 'Y' : 4, 'label' : 'Red'},
+        {'point' : 'G', 'X' : 3, 'Y' : 2, 'label' : 'Red'}
     ]
     
     print(Border)
@@ -46,8 +49,6 @@ def MarvellousKNNClassifier():
         
     print(Border)
     
-    k = 3
-    
     nearest = sorted_data[:k]                # Array Slicing
     
     print(Border)
@@ -74,12 +75,24 @@ def MarvellousKNNClassifier():
         print("Name : ", d, "Number  of votes : ", votes[d])
         
     print(Border)
+    
+    iMax = 0
+    Name = ""
+    
+    for d in votes:
+        if(votes[d] > iMax):
+            iMax = votes[d]
+            Name = d
+    
+    print("Final Prediction is : ", Name)
+    
         
 def main():
-    MarvellousKNNClassifier()
+    MarvellousKNNClassifier(5)
 
 
 if __name__ == "__main__":
     main()
     
 # convert thid code into oop using class method and variable
+# pandas add write csv - temprorary.csv banvun read kraycha ae

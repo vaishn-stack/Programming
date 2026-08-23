@@ -74,6 +74,17 @@ def MarvellousKNNClassifier():
         print("Name : ", d, "Number  of votes : ", votes[d])
         
     print(Border)
+    
+    iMax = 0
+    Name = ""
+    
+    for d in votes:
+        if(votes[d] > iMax):
+            iMax = votes[d]
+            Name = d
+    
+    print("Final Prediction is : ", Name)
+    
         
 def main():
     MarvellousKNNClassifier()
