@@ -1,0 +1,17 @@
+[2026-10-12 14:27:16] Server started on port 9000
+[2026-10-12 14:27:26] Client connected: /127.0.0.1
+[2026-10-12 14:27:33] Client 1 login failed
+[2026-10-12 14:32:00] Server started on port 9000
+[2026-10-12 14:32:05] Client connected: /127.0.0.1
+[2026-10-12 14:32:13] Client 1 login failed
+[2026-10-12 14:32:54] Client connected: /127.0.0.1
+[2026-10-12 14:32:59] Client 1 logged in
+[2026-10-12 14:36:14] Client connected: /127.0.0.1
+[2026-10-12 14:36:20] Client 1 logged in
+[2026-10-12 14:36:37] Client connected: /127.0.0.1
+[2026-10-12 14:36:44] Client 1 logged in
+[2026-10-12 14:37:53] Client 1 PUT success: sample.txt (34 bytes)
+[2026-10-12 14:39:00] Client 1 GET success: sample.txt (34 bytes)
+[2026-10-12 14:39:18] Client 1 RENAME: sample.txt -> test.txt
+[2026-10-12 14:39:28] Client 1 DELETE: test.txt
+[2026-10-12 14:39:32] Client 1 disconnected
