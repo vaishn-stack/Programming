@@ -1,0 +1,152 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+    line-height: 1.7;
+}
+
+a {
+    color: #58a6ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    padding: 28px 8% 90px;
+    background: linear-gradient(135deg, #101827, #172554);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+nav h2 {
+    color: #58a6ff;
+}
+
+.hero-content {
+    max-width: 850px;
+    padding-top: 90px;
+}
+
+.tag {
+    color: #58a6ff;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+
+.hero h1 {
+    font-size: clamp(34px, 6vw, 58px);
+    margin: 15px 0;
+}
+
+.hero h1 span {
+    color: #58a6ff;
+}
+
+.hero h2 {
+    margin-bottom: 18px;
+}
+
+.hero-content > p:not(.tag) {
+    margin-bottom: 25px;
+    color: #c9d1d9;
+}
+
+.button {
+    display: inline-block;
+    background: #238636;
+    color: white;
+    padding: 12px 18px;
+    border-radius: 8px;
+    margin: 5px 8px 5px 0;
+    font-weight: bold;
+}
+
+.secondary {
+    background: transparent;
+    border: 1px solid #58a6ff;
+    color: #58a6ff;
+}
+
+main {
+    max-width: 1150px;
+    margin: auto;
+    padding: 20px 24px;
+}
+
+section {
+    padding: 42px 0;
+    scroll-margin-top: 20px;
+}
+
+section h2 {
+    font-size: 30px;
+    margin-bottom: 22px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+}
+
+.card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    padding: 24px;
+}
+
+.card h3 {
+    color: #79c0ff;
+    margin-bottom: 12px;
+}
+
+.card p {
+    margin-bottom: 15px;
+    color: #c9d1d9;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    border-top: 1px solid #30363d;
+    color: #8b949e;
+}
+
+@media (max-width: 650px) {
+    .grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hero {
+        padding-left: 6%;
+        padding-right: 6%;
+    }
+
+    .hero-content {
+        padding-top: 60px;
+    }
+
+    nav {
+        align-items: flex-start;
+    }
+}
