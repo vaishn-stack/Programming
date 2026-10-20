@@ -1,6 +1,7 @@
 
+
 streamlit
 chromadb
 sentence-transformers
-ollama
+groq
 
