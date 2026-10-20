@@ -1,21 +1,20 @@
-
 import streamlit as st
 import chromadb
 from sentence_transformers import SentenceTransformer
-from ollama import chat
+from groq import Groq
 
-# ---------------- PAGE CONFIG ----------------
+# ---------------- PAGE CONFIGURATION ----------------
 
 st.set_page_config(
-    page_title="Marvellous GenAI - RAG",
+    page_title="Marvellous RAG Chatbot",
     page_icon="🤖",
     layout="wide"
 )
 
-st.title("🤖 Marvellous GenAI - RAG Chatbot")
-st.write("Ask questions from your knowledge base using RAG.")
+st.title("🤖 Marvellous RAG Chatbot")
+st.write("Ask questions and get answers using Retrieval-Augmented Generation.")
 
-# ---------------- KNOWLEDGE BASE ----------------
+# ---------------- DOCUMENTS ----------------
 
 documents = [
     "Python is used for machine learning",
@@ -25,9 +24,7 @@ documents = [
     "TensorFlow is used for deep learning"
 ]
 
-document_ids = [
-    "doc1", "doc2", "doc3", "doc4", "doc5"
-]
+ids = [f"doc{i}" for i in range(len(documents))]
 
 # ---------------- LOAD EMBEDDING MODEL ----------------
 
@@ -35,142 +32,101 @@ document_ids = [
 def load_model():
     return SentenceTransformer("all-MiniLM-L6-v2")
 
+model = load_model()
 
-# ---------------- CREATE / LOAD DATABASE ----------------
+# ---------------- CHROMADB ----------------
 
 @st.cache_resource
-def load_database():
-    model = load_model()
-
-    client = chromadb.PersistentClient(
-        path="./MarvellousDB"
-    )
+def load_collection():
+    client = chromadb.PersistentClient(path="./MarvellousDB")
 
     collection = client.get_or_create_collection(
         name="Marvellous_Knowledge",
         metadata={"hnsw:space": "cosine"}
     )
 
-    # Insert or update hard-coded documents
     embeddings = model.encode(documents).tolist()
 
     collection.upsert(
-        ids=document_ids,
+        ids=ids,
         documents=documents,
         embeddings=embeddings
     )
 
     return collection
 
+collection = load_collection()
 
-# ---------------- INITIALIZE ----------------
+# ---------------- USER INPUT ----------------
 
-try:
-    model = load_model()
-    collection = load_database()
+query = st.text_input("Enter your question:")
 
-    st.success(
-        f"Knowledge Base Loaded: {collection.count()} documents"
-    )
+if st.button("Get Answer") and query.strip():
 
-except Exception as e:
-    st.error("Unable to load the knowledge base.")
-    st.exception(e)
-    st.stop()
+    with st.spinner("Searching relevant information..."):
 
+        query_embedding = model.encode([query]).tolist()
 
-# ---------------- USER QUESTION ----------------
+        results = collection.query(
+            query_embeddings=query_embedding,
+            n_results=2,
+            include=["documents", "distances"]
+        )
 
-query = st.text_input(
-    "Enter your question:",
-    placeholder="Example: What is Python used for?"
-)
+        retrieved_docs = results["documents"][0]
+        distances = results["distances"][0]
 
-if st.button("Generate Answer", type="primary"):
+        context = "\n".join(retrieved_docs)
 
-    if not query.strip():
-        st.warning("Please enter a question.")
+    st.subheader("📚 Retrieved Context")
 
-    else:
-        try:
-            # ---------------- RETRIEVAL ----------------
+    for i, doc in enumerate(retrieved_docs):
+        similarity = max(0, 1 - distances[i])
 
-            with st.spinner("Searching knowledge base..."):
+        st.write(f"**Document {i + 1}:** {doc}")
+        st.write(f"Cosine similarity: {similarity:.4f}")
 
-                query_embedding = model.encode(
-                    query
-                ).tolist()
+    # ---------------- GROQ LLM ----------------
 
-                results = collection.query(
-                    query_embeddings=[query_embedding],
-                    n_results=min(2, collection.count()),
-                    include=["documents", "distances"]
-                )
+    try:
+        api_key = st.secrets["GROQ_API_KEY"]
+        client = Groq(api_key=api_key)
 
-                documents_found = results["documents"][0]
-                distances = results["distances"][0]
+        with st.spinner("Generating answer..."):
 
-                context = "\n".join(documents_found)
-
-            # ---------------- DISPLAY CONTEXT ----------------
-
-            st.subheader("📚 Retrieved Context")
-
-            for i, document in enumerate(documents_found):
-
-                with st.expander(f"Document {i + 1}"):
-
-                    st.write(document)
-
-                    similarity = 1 - distances[i]
-
-                    st.write(
-                        f"Cosine similarity: {similarity:.4f}"
-                    )
-
-            # ---------------- BUILD PROMPT ----------------
-
-            prompt = f"""
-You are a helpful RAG assistant.
-
-Answer the question using only the provided context.
-If the answer is not available in the context,
-reply exactly: Information not available.
-
-Context:
-{context}
-
-Question:
-{query}
-
-Answer:
-"""
-
-            # ---------------- GENERATE ANSWER ----------------
-
-            st.subheader("💬 Marvellous GenAI Answer")
-
-            with st.spinner("Generating answer with Llama..."):
-
-                response = chat(
-                    model="llama3.2:1b",
-                    messages=[
-                        {
-                            "role": "user",
-                            "content": prompt
-                        }
-                    ]
-                )
-
-                answer = response.message.content
-
-            st.markdown(answer)
-
-        except Exception as e:
-            st.error("Unable to generate the answer.")
-            st.exception(e)
-
-            st.info(
-                "Verify that the Ollama server is reachable "
-                "and the llama3.2:1b model is available."
+            response = client.chat.completions.create(
+                model="llama-3.3-70b-versatile",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": (
+                            "Answer the user's question using the "
+                            "provided context. If the answer is not "
+                            "available in the context, clearly say so."
+                        )
+                    },
+                    {
+                        "role": "user",
+                        "content": (
+                            f"Context:\n{context}\n\n"
+                            f"Question: {query}"
+                        )
+                    }
+                ],
+                temperature=0.2
             )
+
+        st.subheader("💡 Answer")
+        st.write(response.choices[0].message.content)
+
+    except KeyError:
+        st.error(
+            "GROQ_API_KEY is missing. Add it in "
+            "Streamlit Cloud App Settings → Secrets."
+        )
+
+    except Exception as e:
+        st.error(f"Something went wrong: {e}")
+
+elif st.button("Get Answer"):
+    st.warning("Please enter a question first.")
